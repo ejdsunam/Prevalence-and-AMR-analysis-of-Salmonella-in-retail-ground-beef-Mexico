@@ -1,0 +1,98 @@
+Variable,Factor,Category,OR,95% CI,P-Value
+GEN_Aminoglycosides,Serovar_Group,ER,2.27,"[1.18, 4.51]",0.0134
+GEN_Aminoglycosides,Region,Center,0.74,"[0.36, 1.52]",0.4080
+GEN_Aminoglycosides,Region,South,1.05,"[0.48, 2.32]",0.8943
+GEN_Aminoglycosides,Outlet_type,Butcher shop,1.17,"[0.31, 5.26]",0.8208
+GEN_Aminoglycosides,Outlet_type,Public market,1.72,"[0.48, 7.36]",0.4107
+GEN_Betalactams,Serovar_Group,ER,2.32,"[1.12, 5.19]",0.0235
+GEN_Betalactams,Region,Center,0.66,"[0.30, 1.42]",0.2846
+GEN_Betalactams,Region,South,0.84,"[0.36, 1.94]",0.6765
+GEN_Betalactams,Outlet_type,Butcher shop,0.65,"[0.17, 2.98]",0.5558
+GEN_Betalactams,Outlet_type,Public market,0.96,"[0.27, 4.14]",0.9517
+GEN_Sulfas,Serovar_Group,ER,2.83,"[1.48, 5.63]",0.0016
+GEN_Sulfas,Region,Center,0.99,"[0.49, 2.02]",0.9755
+GEN_Sulfas,Region,South,1.14,"[0.52, 2.51]",0.7440
+GEN_Sulfas,Outlet_type,Butcher shop,1.46,"[0.39, 6.53]",0.5837
+GEN_Sulfas,Outlet_type,Public market,1.97,"[0.56, 8.43]",0.3005
+GEN_Tetracycline,Serovar_Group,ER,2.01,"[1.08, 3.80]",0.0281
+GEN_Tetracycline,Region,Center,1.02,"[0.51, 2.07]",0.9482
+GEN_Tetracycline,Region,South,1.21,"[0.55, 2.66]",0.6287
+GEN_Tetracycline,Outlet_type,Butcher shop,1.60,"[0.44, 6.35]",0.4767
+GEN_Tetracycline,Outlet_type,Public market,1.57,"[0.45, 5.94]",0.4761
+GEN_Phenicols,Serovar_Group,ER,3.53,"[1.74, 7.62]",0.0003
+GEN_Phenicols,Region,Center,0.89,"[0.43, 1.82]",0.7425
+GEN_Phenicols,Region,South,0.65,"[0.28, 1.45]",0.2918
+GEN_Phenicols,Outlet_type,Butcher shop,1.09,"[0.29, 4.88]",0.9071
+GEN_Phenicols,Outlet_type,Public market,1.44,"[0.41, 6.19]",0.5794
+GEN_Macrolides,Serovar_Group,ER,7.45,"[2.35, 37.50]",0.0002
+GEN_Macrolides,Region,Center,0.87,"[0.37, 2.12]",0.7550
+GEN_Macrolides,Region,South,0.62,"[0.21, 1.72]",0.3573
+GEN_Macrolides,Outlet_type,Butcher shop,0.47,"[0.12, 2.22]",0.3216
+GEN_Macrolides,Outlet_type,Public market,0.45,"[0.12, 1.98]",0.2694
+GEN_Ciprofloxacine,Serovar_Group,ER,2.40,"[1.28, 4.58]",0.0063
+GEN_Ciprofloxacine,Region,Center,1.98,"[0.98, 4.07]",0.0585
+GEN_Ciprofloxacine,Region,South,1.24,"[0.56, 2.74]",0.5936
+GEN_Ciprofloxacine,Outlet_type,Butcher shop,1.93,"[0.52, 8.62]",0.3343
+GEN_Ciprofloxacine,Outlet_type,Public market,2.58,"[0.73, 11.07]",0.1439
+FEN_AMK,Serovar_Group,N/A,N/A,N/A,Not Evaluated
+FEN_AMK,Region,N/A,N/A,N/A,Not Evaluated
+FEN_AMK,Outlet_type,N/A,N/A,N/A,Not Evaluated
+FEN_STR,Serovar_Group,ER,1.34,"[0.72, 2.55]",0.3585
+FEN_STR,Region,Center,0.83,"[0.41, 1.68]",0.6009
+FEN_STR,Region,South,0.90,"[0.41, 1.97]",0.7889
+FEN_STR,Outlet_type,Butcher shop,1.36,"[0.36, 6.08]",0.6586
+FEN_STR,Outlet_type,Public market,1.84,"[0.52, 7.88]",0.3528
+FEN_AMP,Serovar_Group,ER,1.60,"[0.81, 3.29]",0.1795
+FEN_AMP,Region,Center,0.66,"[0.31, 1.39]",0.2691
+FEN_AMP,Region,South,0.70,"[0.30, 1.60]",0.3981
+FEN_AMP,Outlet_type,Butcher shop,0.48,"[0.13, 1.96]",0.2940
+FEN_AMP,Outlet_type,Public market,0.73,"[0.21, 2.76]",0.6233
+FEN_AMC,Serovar_Group,ER,1.16,"[0.43, 3.57]",0.7825
+FEN_AMC,Region,Center,1.38,"[0.45, 4.88]",0.5860
+FEN_AMC,Region,South,0.94,"[0.23, 3.84]",0.9256
+FEN_AMC,Outlet_type,Butcher shop,0.15,"[0.02, 1.11]",0.0624
+FEN_AMC,Outlet_type,Public market,0.48,"[0.12, 2.70]",0.3630
+FEN_CRO,Serovar_Group,ER,3.10,"[0.69, 29.39]",0.1537
+FEN_CRO,Region,Center,0.24,"[0.04, 1.03]",0.0545
+FEN_CRO,Region,South,0.57,"[0.13, 2.28]",0.4270
+FEN_CRO,Outlet_type,Butcher shop,0.22,"[0.04, 1.47]",0.1109
+FEN_CRO,Outlet_type,Public market,0.17,"[0.03, 1.03]",0.0537
+FEN_FEP,Serovar_Group,N/A,N/A,N/A,Not Evaluated
+FEN_FEP,Region,N/A,N/A,N/A,Not Evaluated
+FEN_FEP,Outlet_type,N/A,N/A,N/A,Not Evaluated
+FEN_MEM,Serovar_Group,N/A,N/A,N/A,Not Evaluated
+FEN_MEM,Region,N/A,N/A,N/A,Not Evaluated
+FEN_MEM,Outlet_type,N/A,N/A,N/A,Not Evaluated
+FEN_CHL,Serovar_Group,ER,2.79,"[1.43, 5.70]",0.0023
+FEN_CHL,Region,Center,0.94,"[0.46, 1.92]",0.8713
+FEN_CHL,Region,South,0.65,"[0.29, 1.45]",0.2912
+FEN_CHL,Outlet_type,Butcher shop,0.55,"[0.14, 2.05]",0.3638
+FEN_CHL,Outlet_type,Public market,0.72,"[0.20, 2.57]",0.6074
+FEN_SXT,Serovar_Group,ER,3.01,"[1.43, 6.92]",0.0033
+FEN_SXT,Region,Center,1.38,"[0.65, 2.98]",0.4043
+FEN_SXT,Region,South,0.60,"[0.24, 1.49]",0.2735
+FEN_SXT,Outlet_type,Butcher shop,0.57,"[0.15, 2.31]",0.4201
+FEN_SXT,Outlet_type,Public market,0.62,"[0.18, 2.37]",0.4677
+FEN_CIP,Serovar_Group,N/A,N/A,N/A,Not Evaluated
+FEN_CIP,Region,N/A,N/A,N/A,Not Evaluated
+FEN_CIP,Outlet_type,N/A,N/A,N/A,Not Evaluated
+FEN_TET,Serovar_Group,ER,2.16,"[1.14, 4.17]",0.0173
+FEN_TET,Region,Center,0.88,"[0.43, 1.78]",0.7206
+FEN_TET,Region,South,0.89,"[0.41, 1.96]",0.7805
+FEN_TET,Outlet_type,Butcher shop,1.30,"[0.36, 5.16]",0.6908
+FEN_TET,Outlet_type,Public market,1.20,"[0.34, 4.53]",0.7769
+FEN_AZM,Serovar_Group,ER,1.72,"[0.82, 3.88]",0.1568
+FEN_AZM,Region,Center,0.45,"[0.21, 0.98]",0.0442
+FEN_AZM,Region,South,0.32,"[0.12, 0.80]",0.0143
+FEN_AZM,Outlet_type,Butcher shop,0.21,"[0.05, 0.80]",0.0219
+FEN_AZM,Outlet_type,Public market,0.19,"[0.05, 0.68]",0.0110
+MDR_Genotypic,Serovar_Group,ER,2.74,"[1.43, 5.45]",0.0022
+MDR_Genotypic,Region,Center,0.99,"[0.49, 2.02]",0.9755
+MDR_Genotypic,Region,South,1.05,"[0.48, 2.32]",0.8943
+MDR_Genotypic,Outlet_type,Butcher shop,1.36,"[0.36, 6.08]",0.6586
+MDR_Genotypic,Outlet_type,Public market,1.97,"[0.56, 8.43]",0.3005
+MDR_Phenotypic,Serovar_Group,ER,2.50,"[1.30, 4.96]",0.0056
+MDR_Phenotypic,Region,Center,1.07,"[0.53, 2.20]",0.8418
+MDR_Phenotypic,Region,South,0.98,"[0.44, 2.17]",0.9601
+MDR_Phenotypic,Outlet_type,Butcher shop,1.36,"[0.36, 6.08]",0.6586
+MDR_Phenotypic,Outlet_type,Public market,1.78,"[0.50, 7.62]",0.3811
