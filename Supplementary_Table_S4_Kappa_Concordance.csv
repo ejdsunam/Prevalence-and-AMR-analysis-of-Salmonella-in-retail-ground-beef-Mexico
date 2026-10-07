@@ -1,9 +1,0 @@
-Antibiotic Class / Category,Phenotypic Positives (N),Genotypic Positives (N),Cohen's Kappa (k),ASE,95% CI,Z-statistic,P-Value
-Beta-lactams,61,52,0.83,0.073,"[0.69, 0.98]",11.39,< 0.0001
-Aminoglycosides,79,75,0.60,0.074,"[0.45, 0.74]",8.12,< 0.0001
-Fluoroquinolones,4,94,-0.00,0.021,"[-0.04, 0.04]",-0.04,0.9649
-Tetracyclines,84,95,0.88,0.073,"[0.74, 1.00]",12.03,< 0.0001
-Phenicols,74,69,0.87,0.074,"[0.73, 1.00]",11.88,< 0.0001
-Folate pathway inhibitors,55,82,0.58,0.070,"[0.44, 0.72]",8.26,< 0.0001
-Macrolides,44,33,0.66,0.073,"[0.51, 0.80]",9.06,< 0.0001
-Multidrug Resistance (MDR),78,81,0.81,0.074,"[0.67, 0.96]",11.02,< 0.0001
